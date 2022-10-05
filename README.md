@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# About This Site
+
+This is a site about Jae Loney- Software Developer. If you are looking for an enthusiastic and organized new developer to join your team, please feel to reach out to me on LinkedIn at https://www.linkedin.com/in/jae-loney/
+
+## Next JS
+
+This is a Next.js application that has been deployed on Vercel at https://hire-jae.vercel.app/This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
