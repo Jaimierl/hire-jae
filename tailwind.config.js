@@ -8,12 +8,8 @@ module.exports = {
     extend: {
       colors: {
         'text-black': '#000403',
-        'main-bg':'#ecfdf5',
-        'form-bg': '#6fe6b7',
-        'button':'#15b981',
-        'table-text':'#606b75',
-        'footer-green':'#15b981',
-        'footer-text':'#214244',
+        'main-bg':'111111',
+        'footer-bg':'#AEAEAE',
       },
     },
   },
