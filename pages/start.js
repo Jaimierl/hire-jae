@@ -63,6 +63,9 @@ export default function Home() {
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span>
         </a>
+        <h2>
+        <Link href="/">Back to home</Link>
+        </h2>
       </footer>
     </div>
   )
