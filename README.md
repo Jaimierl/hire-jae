@@ -1,3 +1,8 @@
+# Hire Jae
+
+Hire Jae is an about-me site built with Next.js and deployed with Vercel. It shows visitors a snapshot of projects that are linked in my Github that used different languages, frameworks, and technologies, as well as a bit about my motivations and background. If you are looking for a curious and motivated developer to join your team, reach out to Hire Jae!
+
+
 ## Next.JS Information
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
